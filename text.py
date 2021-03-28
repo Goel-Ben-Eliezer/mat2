@@ -12,7 +12,7 @@ def revword(w):
     return c
 
 
-def countword(a):
+def countword():
     i=0
     count=1
     while i < len(a):
