@@ -1,4 +1,4 @@
-a = open("C:\\Users\\User\\Desktop\\mat\\mat2\\text.txt")
+a = open("text.txt")
 a = a.read()
 a=a.splitlines()
 word = a[0]
